@@ -1,0 +1,10 @@
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.csprojAssemblyReference.cache
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.Form1.resources
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.Properties.Resources.resources
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.csproj.GenerateResource.cache
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.csproj.CoreCompileInputs.cache
+C:\Users\FB\source\repos\googlemap\googlemap\bin\Debug\googlemap.exe.config
+C:\Users\FB\source\repos\googlemap\googlemap\bin\Debug\googlemap.exe
+C:\Users\FB\source\repos\googlemap\googlemap\bin\Debug\googlemap.pdb
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.exe
+C:\Users\FB\source\repos\googlemap\googlemap\obj\Debug\googlemap.pdb
